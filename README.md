@@ -166,8 +166,12 @@ visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 ```
-# Result:
+# Output:
+![image](https://github.com/Daniel-christal/19AI405ExpNo3/assets/145742847/b0202e67-cf7b-4efb-8447-98c8c2923a9e)
 
+![image](https://github.com/Daniel-christal/19AI405ExpNo3/assets/145742847/4ab7fd03-052f-4c68-9ee8-2074c59d10ed)
+
+# Result:
 Thus, a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
 
 
